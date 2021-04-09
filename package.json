@@ -1,5 +1,5 @@
 {
-  "name": "node-legendas-tv",
+  "name": "legendas-tv",
   "version": "1.0.0",
   "description": "Node.js client for legendas.tv",
   "main": "index.js",
@@ -16,9 +16,9 @@
   "author": "mrcanelas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrcanelas/node-legendas-tv/issues"
+    "url": "https://github.com/mrcanelas/legendas-tv/issues"
   },
-  "homepage": "https://github.com/mrcanelas/node-legendas-tv#readme",
+  "homepage": "https://github.com/mrcanelas/legendas-tv#readme",
   "dependencies": {
     "async": "^3.2.0",
     "cheerio": "^1.0.0-rc.5",
