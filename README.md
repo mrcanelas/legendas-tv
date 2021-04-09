@@ -5,13 +5,13 @@ Node.js client for popular brazilian subtitle site [legendas.tv](http://www.lege
 ## Install
 
 ```sh
-$ npm install node-legendastv
+$ npm install legendas-tv
 ```
 
 ## API
 
 ```js
-var legendastv = require('node-legendastv')
+var legendastv = require('legendas-tv')
 ```
 
 ### search(termo, opts, cb)
