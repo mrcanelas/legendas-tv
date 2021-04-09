@@ -1,4 +1,4 @@
-# node-legendastv
+# legendastv
  
 Node.js client for popular brazilian subtitle site [legendas.tv](http://www.legendas.tv).
 
