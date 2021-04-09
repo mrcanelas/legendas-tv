@@ -1,0 +1,28 @@
+{
+  "name": "node-legendas-tv",
+  "version": "1.0.0",
+  "description": "Node.js client for legendas.tv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrcanelas/node-legendas-tv.git"
+  },
+  "keywords": [
+    "legendastv"
+  ],
+  "author": "mrcanelas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcanelas/node-legendas-tv/issues"
+  },
+  "homepage": "https://github.com/mrcanelas/node-legendas-tv#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "cheerio": "^1.0.0-rc.5",
+    "needle": "^2.6.0",
+    "validator": "^13.5.2"
+  }
+}
