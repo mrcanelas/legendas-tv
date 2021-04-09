@@ -1,4 +1,4 @@
-# legendastv
+# legendas-tv
  
 Node.js client for popular brazilian subtitle site [legendas.tv](http://www.legendas.tv).
 
@@ -46,7 +46,7 @@ var legendastv = require('node-legendastv')
 ## Example
 
 ```js
-var legendastv = require('node-legendastv');
+var legendastv = require('legendas-tv');
 
 legendastv.search('game of thrones S04E01', function(err, results) {
   if (err) {
